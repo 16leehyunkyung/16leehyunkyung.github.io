@@ -2,10 +2,8 @@
 title: "블록체인과 스마트 컨트랙트"
 excerpt: "블록체인이란"
 
-categories:
-	-blog
-tags:
-	-blog
+categories: -blog
+tags: -blog
 last_modified_at: 2020-03-22T06:06:00-05:00
 ---
 
