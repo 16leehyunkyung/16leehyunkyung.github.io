@@ -3,7 +3,8 @@ layout: post
 title: 간단한 이체 프로그램
 ---
 
-<img src="/assets/images/bank_code.PNG" width="80%" height="80">
+<img src="/assets/images/bank_code.PNG" width="20%" height="20%">
+
 계좌의 소유주 변수를 선언해줬다.
 _owner 매개 변수를 받아 계좌소유주인 owner에 넣어줬다.
 
