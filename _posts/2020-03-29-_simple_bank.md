@@ -3,7 +3,7 @@ layout: post
 title: 간단한 이체 프로그램
 ---
 
-<img src="/assets/images/bank_code.PNG" width="50%" height="20%">
+<img src="/assets/images/bank_code.PNG" width="40%" height="20%">
 
 계좌의 소유주 변수를 선언해줬다.
 _owner 매개 변수를 받아 계좌소유주인 owner에 넣어줬다.
@@ -20,9 +20,9 @@ require를 이용해 보내는 사람과 계좌 소유주가 같은 가?를 확�
 transfer함수는 괄호 안의 양만큼 이더리움을 송금하는 함수이다.
 balance는 계좌의 잔고이므로 잔고만큼 owner에게 송금한다.
 
-<img src="/assets/images/bank_deploy_migrate.PNG" width="50%" height="20%">
-<img src="/assets/images/bank_compile.PNG" width="50%" height="20%">
-<img src="/assets/images/bank_compile2.PNG" width="50%" height="20%">
-<img src="/assets/images/bank_deploy.PNG" width="50%" height="20%">
-<img src="/assets/images/bank_gana.PNG" width="50%" height="20%">
-<img src="/assets/images/bank_owner.PNG" width="50%" height="20%">
+<img src="/assets/images/bank_deploy_migrate.PNG" width="40%" height="20%">
+<img src="/assets/images/bank_compile.PNG" width="40%" height="20%">
+<img src="/assets/images/bank_compile2.PNG" width="40%" height="20%">
+<img src="/assets/images/bank_deploy.PNG" width="40%" height="20%">
+<img src="/assets/images/bank_gana.PNG" width="40%" height="20%">
+<img src="/assets/images/bank_owner.PNG" width="40%" height="20%">
