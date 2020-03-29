@@ -22,10 +22,10 @@ transfer함수는 괄호 안의 양만큼 이더리움을 송금하는 함수이
 
 balance는 계좌의 잔고이므로 잔고만큼 owner에게 송금한다.
 
-<img src="/assets/images/bank_owner.PNG" width="30%" height="20%">
+
 <img src="/assets/images/bank_deploy_migrate.PNG" width="30%" height="20%">
 <img src="/assets/images/bank_compile.PNG" width="30%" height="20%">
 <img src="/assets/images/bank_compile2.PNG" width="30%" height="20%">
 <img src="/assets/images/bank_deploy.PNG" width="30%" height="20%">
-
-<img src="/assets/images/bank_gana.PNG" width="30%" height="20%">
+<img src="/assets/images/bank_owner.PNG">
+<img src="/assets/images/bank_gana.PNG">
