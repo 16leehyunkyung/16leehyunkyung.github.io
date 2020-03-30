@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "이현경"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "'.'"
+  avatar           : "/assets/images/zzanggu.PNG"
+  bio              : "For Graduation Project"
   location         : "chungnam National University"
   email            : change970@naver.com
   links:
