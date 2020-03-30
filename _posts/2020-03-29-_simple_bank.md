@@ -27,5 +27,7 @@ balance는 계좌의 잔고이므로 잔고만큼 owner에게 송금한다.
 <img src="/assets/images/bank_compile.PNG" width="30%" height="20%">
 <img src="/assets/images/bank_compile2.PNG" width="30%" height="20%">
 <img src="/assets/images/bank_deploy.PNG" width="30%" height="20%">
+
+
 <img src="/assets/images/bank_owner.PNG">
 <img src="/assets/images/bank_gana.PNG">
